@@ -1,9 +1,13 @@
 https://www.linkedin.com/posts/boga-vivek-703272251_vlsi-asic-rtldesign-ugcPost-7430485469915828224--8T9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4nMHMB2vvp5H1lBlx__2iKjFK5zzrefxo
 
 
+https://www.linkedin.com/posts/boga-vivek-703272251_vlsi-asic-rtldesign-ugcPost-7430485469915828224--8T9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD4nMHMB2vvp5H1lBlx__2iKjFK5zzrefxo
+
+
 Excited to share that our team secured 3rd Prize at the VLSI Make-A-Thon 2026 organized by the Centre for Nanoelectronics and VLSI Design (CNVD), VIT Chennai.
 🔹 Problem Statement: SPI Master with FIFO (ASIC Implementation)
- 🔹 Domain: Digital IC Design
+🔹 Domain: Digital IC Design
+ 
 🔬 What We Engineered
 We architected and implemented a configurable SPI Master IP featuring:
 • CPOL/CPHA programmability
